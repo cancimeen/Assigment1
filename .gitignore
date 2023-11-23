@@ -75,3 +75,7 @@ DerivedDataCache/*
 /Content/BirdOfPrey/Resources
 /Content/StarterContent
 
+/.vsconfig
+/BirdOfPrey.sln
+/Content
+/.gitignore
